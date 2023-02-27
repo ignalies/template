@@ -3733,13 +3733,13 @@ Notification texts go here &lt;a href=&#39;https://telegram.me/deo_kumar&#39; ta
                         <div class='fotCd notranslate'>
                           <span class='credit'>
                             <b:if cond='data:content == &quot;&quot;'>
-                              <span style='font-family:Arial, Helvetica, sans-serif'>&#169;</span> <!--<span id='getYear'><b:if cond='data:view.url != data:view.url params { amp: &quot;1&quot; }'><script>/*<![CDATA[*/ var d = new Date(); var n = d.getFullYear(); document.getElementById('getYear').innerHTML = n; /*]]>*/</script><b:else/>2022</b:if></span>--> <bdi><a href='https://www.igzein.web.id' target='blank' rel='dofollow'><data:blog.title/><b:include name='verified-icon'/></a></bdi>
+                              <span style='font-family:Arial, Helvetica, sans-serif'>&#169;</span> <!--<span id='getYear'><b:if cond='data:view.url != data:view.url params { amp: &quot;1&quot; }'><script>/*<![CDATA[*/ var d = new Date(); var n = d.getFullYear(); document.getElementById('getYear').innerHTML = n; /*]]>*/</script><b:else/>2022</b:if></span>--> <bdi><a href='https://www.ignalies.com' target='blank' rel='nofollow noopener'><data:blog.title/><b:include name='verified-icon'/></a></bdi>
                               <b:else/>
                               <data:content/>
                             </b:if>
                           </span>
                           <!--[ Credit (Removable) ]-->
-                          <span class='creator pSml'>Made with love by <a href='https://www.fineshopdesign.com'>Fineshop Design</a></span>
+                          <span class='creator pSml'>Made with love by <a href='https://www.ignalies.com'>Ignalies</a></span>
                           <!--[ Credit end here ]-->
                         </div>
                       </b:includable>
